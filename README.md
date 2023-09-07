@@ -27,7 +27,7 @@
 <ul>
 <li>Path: ../Tetris/main.exe</li>
 <li>Code: main.cpp</li>
-<li>Images used: included in folder images located in ..Tetris/images</li>
+<li>Images used: included in folder images located in ../Tetris/images</li>
 </ul>
 
 <p align="center">
